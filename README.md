@@ -2,7 +2,7 @@
 
 • This project focuses on performing comprehensive analysis and visualization of call center data using Excel and Power BI. 
 
-• The goal is to gain valuable insights into call handling performance, customer satisfaction, and operational efficiency1.
+• The goal is to gain valuable insights into call handling performance, customer satisfaction, and operational efficiency.
 
 • Features include data preparation (cleaning and transforming raw call center data), in-depth analysis using Excel, and creating interactive visualizations in Power BI.
 
