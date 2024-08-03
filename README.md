@@ -12,7 +12,7 @@
 
 
 
-IT is a Power BI project focused on analyzing call center data. The objective is to uncover key trends, patterns, and insights to improve call center operations and customer service.
+It is a Power BI project focused on analyzing call center data. The objective is to uncover key trends, patterns, and insights to improve call center operations and customer service.
 This project is part of the PWC Power BI tasks.
 
 CALL CENTRE TRENDS
